@@ -1,0 +1,1 @@
+worker: python YOUR_BOT_PROGRAM.py
